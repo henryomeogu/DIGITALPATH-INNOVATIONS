@@ -6,3 +6,5 @@ Over the past few days, I’ve been diving deep into 'DigitalPath Innovations' w
 ✅ Strategic improvements in CTAs, checkout experience, and content flow can boost user engagement and sales.
 This project reaffirmed the power of data-driven decision-making in digital marketing! Excited to keep optimising and refining strategies. 
 hashtag#DataAnalytics hashtag#ABTesting hashtag#DigitalMarketing hashtag#Tableau hashtag#UserExperience hashtag#ConversionOptimization
+
+https://public.tableau.com/views/DigitalPath_Innovations/UserInsightAnalysis?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
